@@ -1,5 +1,9 @@
 # ALCF Jupyter notebooks
-A collection of Jupyter notebooks used by ALCF datascience group members
+A collection of Jupyter notebooks used by ALCF datascience group members.
+
+Github repo: https://github.com/jupyter4hpc/ALCF_notebooks  
+Box link: https://anl.box.com/s/9bnfyj3q0wq70zof75l58kcjo6o72p7i  
+Theta path: /lus/theta-fs0/projects/datascience/ALCF_notebooks
 
 * numpy_profile.ipynb: Basic profiling for numpy (svd, cholesky, and eigendecomposition).
 * tensorflow_mnist.ipynb: MNIST model with tensorflow.
