@@ -2,8 +2,9 @@
 A collection of Jupyter notebooks used by ALCF datascience group members
 
 * numpy_profile.ipynb: Basic profiling for numpy (svd, cholesky, and eigendecomposition).
-* tensorflow_mnist.ipynb: MNIST model with tensorflow (mnist model).
+* tensorflow_mnist.ipynb: MNIST model with tensorflow.
 * balsam_monitor.ipynb: Balsam workflow manager with widgets for interactive use for job submission and monitoring.
+* chembox.ipynb: Requires ase, psi4, openbabel, rdkit, py3Dmol, pandas.
 
 ## Tutorial style notebooks from ATPESC machine learning workshop
 source: https://github.com/argonne-lcf/ATPESC_MachineLearning.git
